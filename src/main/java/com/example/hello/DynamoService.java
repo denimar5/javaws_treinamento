@@ -26,7 +26,7 @@ public class DynamoService {
         Map<String, AttributeValue> item = new HashMap<>();
 
         item.put("id", AttributeValue.builder().n(id).build());
-        item.put("nome", AttributeValue.builder().n(nome).build());
+        item.put("nome", AttributeValue.builder().s(nome).build());
 
         PutItemRequest request = PutItemRequest.builder()
                 .tableName(TABLE_NAME)
