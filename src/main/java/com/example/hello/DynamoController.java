@@ -1,6 +1,6 @@
 package com.example.hello;
 
-import com.aws.class3.dynamodb.service.DynamoService;
+
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
