@@ -17,4 +17,7 @@ public class HelloApplication {
     public String hello() {
         return "Hello World direto do Java 25 numa instância EC2!";
     }
+
+
+
 }
