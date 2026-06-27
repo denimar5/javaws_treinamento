@@ -1,13 +1,9 @@
 target/
 *.class
 *.jar
-*.original
-
-# IDE
+*.pem
+*.log
 .idea/
 *.iml
 .vscode/
-
-# logs e env
-*.log
 .env
