@@ -1,7 +1,5 @@
 package com.example.hello;
 
-import com.aws.class3.sql.entity.Usuario;
-import com.aws.class3.sql.repository.UsuarioRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
