@@ -1,0 +1,12 @@
+com/example/hello/S3Service$ListResult.class
+com/example/hello/UsuarioRepository.class
+com/example/hello/S3Service.class
+com/example/hello/DynamoController.class
+com/example/hello/HelloApplication.class
+com/example/hello/S3Controller.class
+com/example/hello/S3Config.class
+com/example/hello/DynamoService.class
+com/example/hello/UsuarioController.class
+com/example/hello/S3Controller$MetadataResponse.class
+com/example/hello/Usuario.class
+com/example/hello/DynamoConfig.class
