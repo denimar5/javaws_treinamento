@@ -5,3 +5,11 @@
 /home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/S3Config.java
 /home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/S3Controller.java
 /home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/S3Service.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/SnsConfig.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/SnsController.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/SnsReceiverController.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/SnsReceiverService.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/SnsService.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/Usuario.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/UsuarioController.java
+/home/denilson/s3/javaws_treinamento/src/main/java/com/example/hello/UsuarioRepository.java
