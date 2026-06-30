@@ -14,7 +14,7 @@ public class SqsService {
     private final SqsClient sqsClient;
 
     private static final String QUEUE_URL =
-            "https://sqs.sa-east-1.amazonaws.com/447197207642/AWS-SQS-CLASS";
+            "https://sqs.us-east-2.amazonaws.com/840986438181/assurance-topic";
 
     public SqsService(SqsClient sqsClient) {
         this.sqsClient = sqsClient;
